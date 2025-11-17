@@ -53,7 +53,6 @@ This project uses commonly used UI & networking packages:
 -   google_fonts\
 -   cached_network_image
 
-*(يمكنك التعديل حسب باكدجات مشروعك)*
 
 ------------------------------------------------------------------------
 
